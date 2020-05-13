@@ -1,4 +1,4 @@
-# Student name: Xujie Yuan
+# Author: Xujie Yuan
 
 import math
 import sys
