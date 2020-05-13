@@ -1,0 +1,2 @@
+Route is S-['L', 'D', 'D', 'R', 'D', 'R', 'R', 'U', 'RU', 'U']-G
+Path cost is 19
